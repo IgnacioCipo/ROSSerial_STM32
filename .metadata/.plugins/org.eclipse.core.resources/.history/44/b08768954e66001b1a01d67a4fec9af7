@@ -1,0 +1,17 @@
+/*
+ * main.cpp
+ *
+ *  Created on: Feb 3, 2021
+ *      Author: Ignacio
+ */
+#include "main.h"
+#include "ros.h"
+#include "std_msgs/String.h"
+
+void CppMain(){
+
+	while(1){
+
+	}
+}
+

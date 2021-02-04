@@ -1,0 +1,10 @@
+16:15:39 **** Incremental Build of configuration Debug for project Rosserial_STM32 ****
+make -j4 all 
+arm-none-eabi-size   Rosserial_STM32.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21336	    152	   4236	  25724	   647c	Rosserial_STM32.elf
+Finished building: default.size.stdout
+ 
+
+16:15:39 Build Finished. 0 errors, 0 warnings. (took 342ms)
+

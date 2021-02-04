@@ -1,0 +1,14 @@
+/*
+ * main.cpp
+ *
+ *  Created on: Feb 3, 2021
+ *      Author: Ignacio
+ */
+
+void CppMain(){
+
+	while(1){
+
+	}
+}
+
